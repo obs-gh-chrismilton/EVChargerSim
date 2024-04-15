@@ -1,0 +1,22 @@
+[
+    {"name": "New York", "state": "NY", "country": "US", "latitude": 40.7128, "longitude": -74.0060, "population": 8419000},
+    {"name": "Los Angeles", "state": "CA", "country": "US", "latitude": 34.0522, "longitude": -118.2437, "population": 3971000},
+    {"name": "Chicago", "state": "IL", "country": "US", "latitude": 41.8781, "longitude": -87.6298, "population": 2716000},
+    {"name": "Houston", "state": "TX", "country": "US", "latitude": 29.7604, "longitude": -95.3698, "population": 2313000},
+    {"name": "Phoenix", "state": "AZ", "country": "US", "latitude": 33.4484, "longitude": -112.0740, "population": 1680000},
+    {"name": "Philadelphia", "state": "PA", "country": "US", "latitude": 39.9526, "longitude": -75.1652, "population": 1584000},
+    {"name": "San Antonio", "state": "TX", "country": "US", "latitude": 29.4241, "longitude": -98.4936, "population": 1547000},
+    {"name": "San Diego", "state": "CA", "country": "US", "latitude": 32.7157, "longitude": -117.1611, "population": 1422000},
+    {"name": "Dallas", "state": "TX", "country": "US", "latitude": 32.7767, "longitude": -96.7970, "population": 1343000},
+    {"name": "San Jose", "state": "CA", "country": "US", "latitude": 37.3382, "longitude": -121.8863, "population": 1027000},
+    {"name": "Austin", "state": "TX", "country": "US", "latitude": 30.2672, "longitude": -97.7431, "population": 993000},
+    {"name": "Jacksonville", "state": "FL", "country": "US", "latitude": 30.3322, "longitude": -81.6557, "population": 911500},
+    {"name": "Fort Worth", "state": "TX", "country": "US", "latitude": 32.7555, "longitude": -97.3308, "population": 902000},
+    {"name": "Columbus", "state": "OH", "country": "US", "latitude": 39.9612, "longitude": -82.9988, "population": 898000},
+    {"name": "Charlotte", "state": "NC", "country": "US", "latitude": 35.2271, "longitude": -80.8431, "population": 885000},
+    {"name": "San Francisco", "state": "CA", "country": "US", "latitude": 37.7749, "longitude": -122.4194, "population": 883000},
+    {"name": "Indianapolis", "state": "IN", "country": "US", "latitude": 39.7684, "longitude": -86.1581, "population": 876000},
+    {"name": "Seattle", "state": "WA", "country": "US", "latitude": 47.6062, "longitude": -122.3321, "population": 753000},
+    {"name": "Denver", "state": "CO", "country": "US", "latitude": 39.7392, "longitude": -104.9903, "population": 727000},
+    {"name": "Washington", "state": "DC", "country": "US", "latitude": 38.9072, "longitude": -77.0369, "population": 705000}
+]

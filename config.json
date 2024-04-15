@@ -1,0 +1,16 @@
+{
+    "api_endpoint": "https://153283189978.collect.observeinc.com/v1/http",
+    "auth_token": "ds1lbUaDulEzurhQXTPa:PrTOFjuX3W90jcw4K-VSIk6g5qm194aW",
+    "simulation": {
+      "peak_hours": [7, 9, 17, 19],
+      "state_probabilities": {
+        "In Use": 0.5,
+        "Maintenance": 0.15,
+        "Idle": 0.35
+      },
+      "session_timing": {
+        "update_interval": 1
+      }
+    }
+  }
+  

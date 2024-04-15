@@ -1,0 +1,143 @@
+{
+    "New York": [
+      {"charger_id": "NY-001", "location": "Times Square", "latitude": 40.7580, "longitude": -73.9855},
+      {"charger_id": "NY-002", "location": "Central Park", "latitude": 40.7851, "longitude": -73.9683},
+      {"charger_id": "NY-003", "location": "Brooklyn Bridge", "latitude": 40.7061, "longitude": -73.9969},
+      {"charger_id": "NY-004", "location": "Empire State Building", "latitude": 40.7488, "longitude": -73.9857},
+      {"charger_id": "NY-005", "location": "Statue of Liberty", "latitude": 40.6892, "longitude": -74.0445}
+    ],
+    "Los Angeles": [
+      {"charger_id": "LA-001", "location": "Hollywood Walk of Fame", "latitude": 34.1014, "longitude": -118.3403},
+      {"charger_id": "LA-002", "location": "Santa Monica Pier", "latitude": 34.0094, "longitude": -118.4975},
+      {"charger_id": "LA-003", "location": "Griffith Observatory", "latitude": 34.1184, "longitude": -118.3004},
+      {"charger_id": "LA-004", "location": "Venice Beach", "latitude": 33.9850, "longitude": -118.4695},
+      {"charger_id": "LA-005", "location": "Universal Studios Hollywood", "latitude": 34.1381, "longitude": -118.3534}
+    ],
+    "Chicago": [
+      {"charger_id": "CHI-001", "location": "Navy Pier", "latitude": 41.8916, "longitude": -87.6079},
+      {"charger_id": "CHI-002", "location": "Millennium Park", "latitude": 41.8825, "longitude": -87.6232},
+      {"charger_id": "CHI-003", "location": "Willis Tower", "latitude": 41.8789, "longitude": -87.6359},
+      {"charger_id": "CHI-004", "location": "The Art Institute of Chicago", "latitude": 41.8796, "longitude": -87.6237},
+      {"charger_id": "CHI-005", "location": "Wrigley Field", "latitude": 41.9484, "longitude": -87.6553}
+    ],
+    "Houston": [
+      {"charger_id": "HOU-001", "location": "Space Center Houston", "latitude": 29.5516, "longitude": -95.0957},
+      {"charger_id": "HOU-002", "location": "Houston Zoo", "latitude": 29.7139, "longitude": -95.3926},
+      {"charger_id": "HOU-003", "location": "Museum of Fine Arts, Houston", "latitude": 29.7254, "longitude": -95.3893},
+      {"charger_id": "HOU-004", "location": "Houston Museum of Natural Science", "latitude": 29.7214, "longitude": -95.3899},
+      {"charger_id": "HOU-005", "location": "Discovery Green", "latitude": 29.7558, "longitude": -95.3595}
+    ],
+    "Phoenix": [
+      {"charger_id": "PHX-001", "location": "Desert Botanical Garden", "latitude": 33.4630, "longitude": -111.9474},
+      {"charger_id": "PHX-002", "location": "Papago Park", "latitude": 33.4515, "longitude": -111.9645},
+      {"charger_id": "PHX-003", "location": "Heard Museum", "latitude": 33.4686, "longitude": -112.0660},
+      {"charger_id": "PHX-004", "location": "Camelback Mountain", "latitude": 33.5102, "longitude": -111.9255},
+      {"charger_id": "PHX-005", "location": "Chase Field", "latitude": 33.4456, "longitude": -112.0661}
+    ],
+    "Philadelphia": [
+      {"charger_id": "PHI-001", "location": "Independence Hall", "latitude": 39.9488, "longitude": -75.1504},
+      {"charger_id": "PHI-002", "location": "Philadelphia Museum of Art", "latitude": 39.9655, "longitude": -75.1818},
+      {"charger_id": "PHI-003", "location": "Reading Terminal Market", "latitude": 39.9537, "longitude": -75.1596},
+      {"charger_id": "PHI-004", "location": "Eastern State Penitentiary", "latitude": 39.9680, "longitude": -75.1722},
+      {"charger_id": "PHI-005", "location": "Philadelphia Zoo", "latitude": 40.0076, "longitude": -75.2153}
+    ],
+    "San Antonio": [
+      {"charger_id": "SA-001", "location": "The Alamo", "latitude": 29.4259, "longitude": -98.4861},
+      {"charger_id": "SA-002", "location": "River Walk", "latitude": 29.4246, "longitude": -98.4946},
+      {"charger_id": "SA-003", "location": "San Fernando Cathedral", "latitude": 29.4224, "longitude": -98.4880},
+      {"charger_id": "SA-004", "location": "Tower of the Americas", "latitude": 29.4199, "longitude": -98.4852},
+      {"charger_id": "SA-005", "location": "Japanese Tea Garden", "latitude": 29.4609, "longitude": -98.4733}
+    ],
+    "San Diego": [
+      {"charger_id": "SD-001", "location": "San Diego Zoo", "latitude": 32.7353, "longitude": -117.1514},
+      {"charger_id": "SD-002", "location": "Balboa Park", "latitude": 32.7341, "longitude": -117.1445},
+      {"charger_id": "SD-003", "location": "USS Midway Museum", "latitude": 32.7137, "longitude": -117.1731},
+      {"charger_id": "SD-004", "location": "Seaport Village", "latitude": 32.7081, "longitude": -117.1696},
+      {"charger_id": "SD-005", "location": "La Jolla Cove", "latitude": 32.8474, "longitude": -117.2792}
+    ],
+    "Dallas": [
+      {"charger_id": "DAL-001", "location": "Dallas Arboretum and Botanical Garden", "latitude": 32.8211, "longitude": -96.7170},
+      {"charger_id": "DAL-002", "location": "Dallas Museum of Art", "latitude": 32.7876, "longitude": -96.8008},
+      {"charger_id": "DAL-003", "location": "Dallas World Aquarium", "latitude": 32.7419, "longitude": -96.8117},
+      {"charger_id": "DAL-004", "location": "Perot Museum of Nature and Science", "latitude": 32.7863, "longitude": -96.8065},
+      {"charger_id": "DAL-005", "location": "Reunion Tower", "latitude": 32.7757, "longitude": -96.8089}
+    ],
+    "San Jose": [
+      {"charger_id": "SJ-001", "location": "Winchester Mystery House", "latitude": 37.3193, "longitude": -121.9481},
+      {"charger_id": "SJ-002", "location": "Rosicrucian Egyptian Museum", "latitude": 37.3339, "longitude": -121.9310},
+      {"charger_id": "SJ-003", "location": "The Tech Interactive", "latitude": 37.3317, "longitude": -121.8909},
+      {"charger_id": "SJ-004", "location": "Santana Row", "latitude": 37.3201, "longitude": -121.9489},
+      {"charger_id": "SJ-005", "location": "Japanese Friendship Garden", "latitude": 37.3461, "longitude": -121.9317}
+    ],
+    "Austin": [
+      {"charger_id": "AUS-001", "location": "Texas State Capitol", "latitude": 30.2747, "longitude": -97.7404},
+      {"charger_id": "AUS-002", "location": "Lady Bird Lake", "latitude": 30.2600, "longitude": -97.7396},
+      {"charger_id": "AUS-003", "location": "Barton Springs Pool", "latitude": 30.2607, "longitude": -97.7712},
+      {"charger_id": "AUS-004", "location": "Congress Avenue Bridge", "latitude": 30.2606, "longitude": -97.7463},
+      {"charger_id": "AUS-005", "location": "The Domain", "latitude": 30.4021, "longitude": -97.7268}
+    ],
+    "Jacksonville": [
+      {"charger_id": "JAX-001", "location": "Jacksonville Zoo and Gardens", "latitude": 30.3935, "longitude": -81.6357},
+      {"charger_id": "JAX-002", "location": "Cummer Museum of Art and Gardens", "latitude": 30.3180, "longitude": -81.6754},
+      {"charger_id": "JAX-003", "location": "Kingsley Plantation", "latitude": 30.4335, "longitude": -81.3962},
+      {"charger_id": "JAX-004", "location": "St. Johns Town Center", "latitude": 30.2571, "longitude": -81.5259},
+      {"charger_id": "JAX-005", "location": "Friendship Fountain", "latitude": 30.3226, "longitude": -81.6565}
+    ],
+    "Fort Worth": [
+      {"charger_id": "FW-001", "location": "Fort Worth Zoo", "latitude": 32.7446, "longitude": -97.3495},
+      {"charger_id": "FW-002", "location": "Fort Worth Stockyards", "latitude": 32.7883, "longitude": -97.3467},
+      {"charger_id": "FW-003", "location": "Kimbell Art Museum", "latitude": 32.7483, "longitude": -97.3653},
+      {"charger_id": "FW-004", "location": "Fort Worth Botanic Garden", "latitude": 32.7371, "longitude": -97.3656},
+      {"charger_id": "FW-005", "location": "Sundance Square", "latitude": 32.7542, "longitude": -97.3295}
+    ],
+    "Columbus": [
+      {"charger_id": "COL-001", "location": "Columbus Zoo and Aquarium", "latitude": 40.1568, "longitude": -83.1184},
+      {"charger_id": "COL-002", "location": "Franklin Park Conservatory", "latitude": 39.9683, "longitude": -82.9584},
+      {"charger_id": "COL-003", "location": "Center of Science and Industry (COSI)", "latitude": 39.9595, "longitude": -83.0030},
+      {"charger_id": "COL-004", "location": "North Market", "latitude": 39.9774, "longitude": -83.0034},
+      {"charger_id": "COL-005", "location": "Ohio Statehouse", "latitude": 39.9612, "longitude": -82.9991}
+    ],
+    "Charlotte": [
+      {"charger_id": "CHA-001", "location": "NASCAR Hall of Fame", "latitude": 35.2217, "longitude": -80.8448},
+      {"charger_id": "CHA-002", "location": "Discovery Place Science", "latitude": 35.2296, "longitude": -80.8390},
+      {"charger_id": "CHA-003", "location": "Freedom Park", "latitude": 35.1992, "longitude": -80.8415},
+      {"charger_id": "CHA-004", "location": "Bechtler Museum of Modern Art", "latitude": 35.2279, "longitude": -80.8447},
+      {"charger_id": "CHA-005", "location": "Carowinds", "latitude": 35.1029, "longitude": -80.9427}
+    ],
+    "San Francisco": [
+      {"charger_id": "SF-001", "location": "Golden Gate Park", "latitude": 37.7694, "longitude": -122.4862},
+      {"charger_id": "SF-002", "location": "Alcatraz Island", "latitude": 37.8267, "longitude": -122.4233},
+      {"charger_id": "SF-003", "location": "Golden Gate Bridge", "latitude": 37.8199, "longitude": -122.4783},
+      {"charger_id": "SF-004", "location": "Fisherman's Wharf", "latitude": 37.8080, "longitude": -122.4177},
+      {"charger_id": "SF-005", "location": "Palace of Fine Arts", "latitude": 37.8024, "longitude": -122.4481}
+    ],
+    "Indianapolis": [
+      {"charger_id": "IND-001", "location": "Indianapolis Motor Speedway", "latitude": 39.7950, "longitude": -86.2340},
+      {"charger_id": "IND-002", "location": "Children's Museum of Indianapolis", "latitude": 39.8107, "longitude": -86.1575},
+      {"charger_id": "IND-003", "location": "Indianapolis Zoo", "latitude": 39.7688, "longitude": -86.1814},
+      {"charger_id": "IND-004", "location": "Soldiers' and Sailors' Monument", "latitude": 39.7684, "longitude": -86.1581},
+      {"charger_id": "IND-005", "location": "White River State Park", "latitude": 39.7673, "longitude": -86.1650}
+    ],
+    "Seattle": [
+      {"charger_id": "SEA-001", "location": "Space Needle", "latitude": 47.6205, "longitude": -122.3493},
+      {"charger_id": "SEA-002", "location": "Pike Place Market", "latitude": 47.6098, "longitude": -122.3423},
+      {"charger_id": "SEA-003", "location": "Chihuly Garden and Glass", "latitude": 47.6205, "longitude": -122.3502},
+      {"charger_id": "SEA-004", "location": "Seattle Aquarium", "latitude": 47.6075, "longitude": -122.3422},
+      {"charger_id": "SEA-005", "location": "Museum of Pop Culture", "latitude": 47.6215, "longitude": -122.3483}
+    ],
+    "Denver": [
+      {"charger_id": "DEN-001", "location": "Red Rocks Park and Amphitheatre", "latitude": 39.6650, "longitude": -105.2050},
+      {"charger_id": "DEN-002", "location": "Denver Zoo", "latitude": 39.7492, "longitude": -104.9489},
+      {"charger_id": "DEN-003", "location": "Denver Art Museum", "latitude": 39.7376, "longitude": -104.9897},
+      {"charger_id": "DEN-004", "location": "Denver Botanic Gardens", "latitude": 39.7320, "longitude": -104.9616},
+      {"charger_id": "DEN-005", "location": "Denver Museum of Nature & Science", "latitude": 39.7475, "longitude": -104.9429}
+    ],
+    "Washington": [
+      {"charger_id": "WAS-001", "location": "National Mall", "latitude": 38.8895, "longitude": -77.0228},
+      {"charger_id": "WAS-002", "location": "Lincoln Memorial", "latitude": 38.8893, "longitude": -77.0502},
+      {"charger_id": "WAS-003", "location": "United States Capitol", "latitude": 38.8899, "longitude": -77.0091},
+      {"charger_id": "WAS-004", "location": "Smithsonian Institution", "latitude": 38.8889, "longitude": -77.0261},
+      {"charger_id": "WAS-005", "location": "Washington Monument", "latitude": 38.8895, "longitude": -77.0353}
+    ]
+  }
+  
